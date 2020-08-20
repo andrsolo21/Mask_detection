@@ -1,0 +1,1 @@
+(Site={App:{Models:{},Auth:{Modules:{},Managers:{},},BugReporter:{},Collections:{},Views:{},isAdaptivePage:'',Tips:{},},Config:{Recaptcha:{MaxAttemts:'10',bruteforceLoginCaptcha:0,Key:'6LcylQwTAAAAAPKTEL635kPeHfKSTEz5_bX7QxWb',BanMinutes:'10',},CSRFRegeneratePeriod:'1500',desktopWidth:1024,Flags:{inWizard:'',inPayment:'',},},JS:{},}),(lang='ru'),(ru=!0),(en=''),(static_prefix='')

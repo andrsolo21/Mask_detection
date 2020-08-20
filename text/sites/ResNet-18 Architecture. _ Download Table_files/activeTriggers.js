@@ -1,0 +1,1 @@
+(function(w) {var data={"t":["view.page.PublicationCitationDownloadLanding"]};if (!w.trackingConfig) w.trackingConfig = {};w.trackingConfig.activeQuestionnaireTriggers = data.t || [];})(window);
