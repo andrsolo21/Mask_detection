@@ -1,0 +1,131 @@
+.error_message{
+	color: red;
+}
+@media screen and (max-width: 1200px) {
+	.row{
+		width: 92%;
+	}
+}
+@media screen and (max-width: 515px) {
+	.padding-title {
+		padding: 1.375rem 0;
+	}
+	.payment_methods__items_block {
+		width: 100%;
+	}
+	.payment_methods {
+		padding-bottom: 0;
+	}
+	.blue__title {
+		font-size: 2em;
+	}
+	.blue__title_demo {
+		font-size: 1.6em;
+	}
+	.header__head_items_search {
+		display: block;
+	}
+	h2{
+    	text-align: left;
+	}
+}
+@media screen and (max-width: 800px) {
+	.header__head_items {
+		text-align: center;
+		flex-basis: 800px;
+		width: 92%;
+	}
+	.sumbit_search {
+		margin-left: 0.3em;
+	}
+	.header__magnifer {
+		display: none;
+	}
+	.header__head_items_search {
+		padding-top: 0.3em;
+		padding-bottom: 0.3em;
+	}
+	.header__head_items_menu {
+		position: absolute;
+	}
+	.header__mobile_menu {
+		top: 35px;
+		right: 0;
+		left: 0;
+	}
+	.header__button_menu {
+		padding-top: 0;
+	}
+	.header__menu__size_icons {
+		width: 19px;
+	}
+	.field_search {
+		margin-bottom: 0.9em;
+	}
+
+	.header__menu_sandwich {
+		float: left;
+	}
+	.header__head_field_search {
+		justify-content: center;
+		width: 92%;
+		display: none;
+		top: 5%;
+	}
+	.header__magnifer_second {
+		display: block;
+	}
+}
+@media screen and (max-width: 970px) {
+	.footer__items_block,
+	.footer__items_block_text {
+		width: 100%;
+		padding-bottom: 1.375rem;
+	}
+
+	.footer__items_block_customer {
+		text-align: left;
+	}
+}
+@media screen and (max-width: 450px) {
+	.footer__items_block_customer {
+		text-align: center;
+	}
+	.form__blue__title {
+		font-size: 24px;
+	}
+	.header__head_field_search {
+		top: 7%;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.m-top {
+		margin-top: -3px;
+	}
+	.menu,
+	.flex-form_right {
+		display: none;
+	}
+	.header__head_items_menu {
+		width: 60px;
+	}
+	.header__head_items_menu {
+	    visibility: visible;
+	}
+	.flex-form_left {
+		width: 100%;
+	}
+	.center_media {
+		text-align: center;
+	}
+}
+@media screen and (max-width: 620px) {
+	.header_title {
+    	font-size: 1.8em;
+	}
+}
+@media screen and (max-width: 280px) {
+	body {
+		overflow: hidden;
+	}
+}
